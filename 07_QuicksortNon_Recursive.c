@@ -1,8 +1,8 @@
 /*
- * 07
- * Quick Sort : Non recursion
- * Name: Sayooj K
- * Roll no: 45
+  07
+  Quick Sort : Non recursion
+  Name: Sayooj K
+  Roll no: 45
  */
 
 #include<stdio.h>
