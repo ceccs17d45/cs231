@@ -1,9 +1,9 @@
 /*
- * 22
- * Infix to Postfix Conversion
- * Name: Sayooj K
- * Roll no: 45
- */
+  22
+  Infix to Postfix Conversion
+  Name: Sayooj K
+  Roll no: 45
+*/
 
 #include<stdio.h>
 #include<string.h>
