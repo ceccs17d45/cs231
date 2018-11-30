@@ -1,4 +1,9 @@
-
+/*
+  02
+  Selection Sort
+  Name: Sayooj K
+  Roll no: 45
+ */
 #include <stdio.h>
 
 int selectionSort(int array[], int size) {
