@@ -1,9 +1,9 @@
 /*
- * 21
- * Representation of arithmetic expressions using linked list
- * Name: Sayooj K
- * Roll no: 45
- */
+  21
+  Representation of arithmetic expressions using linked list
+  Name: Sayooj K
+  Roll no: 45
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
