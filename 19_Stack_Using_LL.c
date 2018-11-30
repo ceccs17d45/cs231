@@ -1,9 +1,9 @@
 /*
- * 19
- * Stack using Linked List
- * Name: Sayooj K
- * Roll no: 45
- */
+  19
+  Stack using Linked List
+  Name: Sayooj K
+  Roll no: 45
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
