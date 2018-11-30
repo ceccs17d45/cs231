@@ -1,3 +1,9 @@
+/*
+  01
+  Sequential Search
+  Name: Sayooj K
+  Roll no: 45
+ */
 #include <stdio.h>
  
 int main()
