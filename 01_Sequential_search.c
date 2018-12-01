@@ -4,6 +4,7 @@
   Name: Sayooj K
   Roll no: 45
  */
+
 #include <stdio.h>
  
 int main()
@@ -34,3 +35,20 @@ int main()
  
   return 0;
 }
+
+/*
+OUTPUT
+Enter the number of elements:
+6
+Enter integers:
+8
+2
+4
+6
+1
+5
+Enter a number to search:
+6
+Found at location 4
+*/
+
