@@ -1,3 +1,10 @@
+/*
+  04
+  Bubble sort
+  Name: Sayooj K
+  Roll no: 45
+ */
+
 #include <stdio.h>
 
 int bubbleSort(int array[], int size) {
@@ -30,3 +37,17 @@ int main() {
 		printf("%d\n", array[i]);
 	}
 }
+/*
+OUTPUT:
+Enter number of elements in the array :4
+Enter the array
+6
+2
+8
+3
+Sorted array
+2
+3
+6
+8
+*/
