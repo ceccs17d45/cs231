@@ -4,6 +4,7 @@
   Name: Sayooj K
   Roll no: 45
  */
+
 #include <stdio.h>
 
 int selectionSort(int array[], int size) {
@@ -42,3 +43,21 @@ int main() {
 		printf("%d\n", array[i]);
 	}
 }
+/*
+OUTPUT:
+Enter number of elements in the array :6
+Enter the array
+5
+2
+3
+8
+0
+7
+Sorted array 
+0
+2
+3
+5
+7
+8
+*/
