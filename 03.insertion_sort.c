@@ -1,3 +1,10 @@
+/*
+  03
+  Insertion sort
+  Name: Sayooj K
+  Roll no: 45
+ */
+
 #include <stdio.h>
  
 int main()
@@ -35,3 +42,21 @@ int main()
  
   return 0;
 }
+
+/*
+OUTPUT:
+Enter number of elements
+5
+Enter 5 integers
+7
+9
+2
+5
+1
+Sorted list in ascending order:
+1
+2
+5
+7
+9
+*/
